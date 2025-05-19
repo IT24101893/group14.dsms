@@ -1,0 +1,18 @@
+[
+  {
+    "id": "I001",
+    "name": "John Smith",
+    "age": 45,
+    "phone": "0711234567",
+    "address": "123 Main Street, Colombo",
+    "specialization": "Motorcycles"
+  },
+  {
+    "id": "I002",
+    "name": "Jane Doe",
+    "age": 38,
+    "phone": "0729876543",
+    "address": "456 Park Avenue, Kandy",
+    "specialization": "Heavy Vehicles"
+  }
+]

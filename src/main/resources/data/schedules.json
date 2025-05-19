@@ -1,0 +1,41 @@
+[ {
+  "lessonId" : "L001",
+  "dateTime" : "2025-05-20T10:00:00",
+  "duration" : 60,
+  "status" : "scheduled",
+  "studentId" : "S001",
+  "instructorId" : "I001",
+  "vehicleId" : "V001",
+  "scheduleType" : "DrivingLesson",
+  "formattedDateTime" : "20 May 2025, 10:00 am"
+}, {
+  "lessonId" : "L002",
+  "dateTime" : "2025-05-21T14:00:00",
+  "duration" : 90,
+  "status" : "scheduled",
+  "studentId" : "S002",
+  "instructorId" : "I002",
+  "vehicleId" : "V003",
+  "scheduleType" : "TheoryLesson",
+  "formattedDateTime" : "21 May 2025, 02:00 pm"
+}, {
+  "lessonId" : "L009",
+  "dateTime" : "2025-05-19T23:10:00",
+  "duration" : 70,
+  "status" : "cancelled",
+  "studentId" : "S003",
+  "instructorId" : "I001",
+  "vehicleId" : "V001",
+  "scheduleType" : "Exam",
+  "formattedDateTime" : "19 May 2025, 11:10 pm"
+}, {
+  "lessonId" : "L010",
+  "dateTime" : "2025-04-28T21:39:00",
+  "duration" : 3,
+  "status" : "completed",
+  "studentId" : "S001",
+  "instructorId" : "I002",
+  "vehicleId" : "V001",
+  "scheduleType" : "DrivingLesson",
+  "formattedDateTime" : "28 Apr 2025, 09:39 pm"
+} ]

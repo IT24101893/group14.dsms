@@ -1,0 +1,23 @@
+[
+  {
+    "id": "V001",
+    "model": "Toyota Corolla",
+    "year": 2015,
+    "licensePlate": "CAR-1234",
+    "type": "Car"
+  },
+  {
+    "id": "V002",
+    "model": "Honda CBR",
+    "year": 2018,
+    "licensePlate": "BIKE-5678",
+    "type": "Motorcycle"
+  },
+  {
+    "id": "V003",
+    "model": "Ashok Leyland",
+    "year": 2012,
+    "licensePlate": "TRUCK-9012",
+    "type": "Heavy Vehicle"
+  }
+]

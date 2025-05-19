@@ -1,0 +1,19 @@
+[ {
+  "id" : "S001",
+  "name" : "Michael Perera",
+  "age" : 23,
+  "phone" : "0776543210",
+  "address" : "10 Flower Road, Colombo 7"
+}, {
+  "id" : "S002",
+  "name" : "Kasun Jayawardena",
+  "age" : 28,
+  "phone" : "0712345678",
+  "address" : "45 Galle Road, Mount Lavinia"
+}, {
+  "id" : "S003",
+  "name" : "Nimali Fernando",
+  "age" : 30,
+  "phone" : "0781234567",
+  "address" : "25 Lake Road, Galle"
+} ]
